@@ -5,7 +5,7 @@ Aplicação back-end desenvolvida para um armazenar e gerenciar notas, com cadas
 
 ## Aprendizados
 
-Desafio desenvolvido durante o curso Explorer da [🚀 Rocketseat](https://rocketseat.com.br/) para aprendizado sobre Node.JS
+Projeto desenvolvido durante o curso Explorer da [🚀 Rocketseat](https://rocketseat.com.br/) para aprendizado sobre Node.JS
 ## Stack utilizada
 
 Node.JS
